@@ -1,33 +1,33 @@
 const questions = [
   {
     id: 1,
-    title: 'Do I have to allow the use of cookies?',
+    title: 'What does Lorem Ipsum placeholder text look like?',
     info:
-      'Unicorn vinyl poutine brooklyn, next level direct trade iceland. Shaman copper mug church-key coloring book, whatever poutine normcore fixie cred kickstarter post-ironic street art.',
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sed eros sed ligula vulputate accumsan. Fusce vel quam diam. Suspendisse ornare augue urna, eget finibus mi consequat ac. Duis a ante consequat, ullamcorper eros et, rhoncus risus. Sed ultricies eget turpis molestie vulputate. Praesent eget mi elit. Sed varius finibus nunc sed vestibulum.',
   },
   {
     id: 2,
-    title: 'How do I change my My Page password?',
+    title: 'Any alternatives. I\'ve heard abot Office Ipsum... how does that look like?',
     info:
-      'Coloring book forage photo booth gentrify lumbersexual. Migas chillwave poutine synth shoreditch, enamel pin thundercats fashion axe roof party polaroid chartreuse.',
+      'That ipo will be a game-changer downselect, and deploy to production or 4-blocker we need evergreen content. Into the weeds we need to think big start small and scale fast to energize our clients and low engagement for feed the algorithm corporate synergy, drink the Kool-aid. Put your feelers out. I\'m sorry i replied to your emails after only three weeks, but can the site go live tomorrow anyway?. Identify pain points digital literacy, so low engagement. ',
   },
   {
     id: 3,
-    title: 'What is BankID?',
+    title: 'How about Cat Ipsum?',
     info:
-      'Enamel pin fam sustainable woke whatever venmo. Authentic asymmetrical put a bird on it, lumbersexual activated charcoal kinfolk banjo cred pickled sartorial.',
+      'Steal raw zucchini off kitchen counter. Scratch me there, elevator butt stinky cat or kitty run to human with blood on mouth from frenzied attack on poor innocent mouse, don\'t i look cute? sleep in the bathroom sink. Scamper ooh, are those your $250 dollar sandals? lemme use that as my litter box break lamps and curl up into a ball. Gate keepers of hell cuddle no cuddle cuddle love scratch scratch kitty power.',
   },
   {
     id: 4,
-    title: 'Whose birth number can I use?',
+    title: 'Can you give me a taste of Cupcake Ipsum?',
     info:
-      'Edison bulb direct trade gentrify beard lo-fi seitan sustainable roof party franzen occupy squid. Knausgaard cronut succulents, scenester readymade shabby chic lyft. Copper mug meh vegan gentrify.',
+      'Bonbon gummi bears jelly beans liquorice marshmallow lemon drops tart toffee apple pie. Jelly cotton candy ice cream cupcake cotton candy donut marshmallow. Marshmallow gingerbread jelly-o soufflé cotton candy bear claw. Chocolate bonbon apple pie marshmallow pie jelly beans chocolate. Chupa chups pudding chocolate pie sweet cake cookie marzipan. Candy candy caramels candy macaroon icing. Sweet roll cupcake jelly beans apple pie ice cream lemon drops carrot cake. Powder croissant gummi bears macaroon tiramisu jelly-o. Pie gingerbread brownie candy dessert liquorice danish cupcake. Gummi bears toffee pastry biscuit caramels dessert cake ice cream. Gummi bears sugar plum candy canes donut tootsie roll ice cream. Donut caramels pie shortbread candy fruitcake.',
   },
   {
     id: 5,
-    title: 'When do I recieve a password ordered by letter?',
+    title: 'And what about Bakon Ipsum?',
     info:
-      'Locavore franzen fashion axe live-edge neutra irony synth af tilde shabby chic man braid chillwave waistcoat copper mug messenger bag. Banjo snackwave blog, microdosing thundercats migas vaporware viral lo-fi seitan ',
+      'Hamburger drumstick chicken leberkas, pastrami boudin strip steak buffalo corned beef bacon burgdoggen picanha jerky. Doner beef ribs leberkas, ground round jowl jerky buffalo fatback flank corned beef.',
   },
 ]
 export default questions
